@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="lib" path="Librería/opencsv-4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librería/common-lang3.jar"/>
+	<classpathentry kind="lib" path="Librería/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Librería/jxmaps-1.3.2.jar"/>
+	<classpathentry kind="lib" path="Librería/jxmaps-win-1.3.2.jar"/>
+	<classpathentry kind="lib" path="Librería/jxmapsdemo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
